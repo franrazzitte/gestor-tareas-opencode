@@ -1,0 +1,9 @@
+{
+  "name": "Gestor de Tareas",
+  "short_name": "Tareas",
+  "description": "Aplicación para gestionar tareas personales",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8f9fa",
+  "theme_color": "#2c3e50"
+}
